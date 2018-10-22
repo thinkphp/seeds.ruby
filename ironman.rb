@@ -9,4 +9,5 @@ class Car
       end 
 end
 
-my_car = Car.new("Audi R8","yellow")
+my_car1 = Car.new("Audi R8","yellow")
+my_car2 = Car.new("Audi R8 Spyder", "blue")
